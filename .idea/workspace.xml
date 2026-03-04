@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d7f505-3757-48da-a5af-18199ef38d81" name="Changes" comment="Test Push">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="40d7f505-3757-48da-a5af-18199ef38d81" name="Changes" comment="Fully finished the model. There is no more empty rows.">
       <change beforePath="$PROJECT_DIR$/build_makemore_yay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/build_makemore_yay.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <updated>1772547903450</updated>
       <workItem from="1772547904474" duration="4519000" />
       <workItem from="1772619001203" duration="51000" />
-      <workItem from="1772636885195" duration="571000" />
+      <workItem from="1772636885195" duration="1929000" />
     </task>
     <task id="LOCAL-00001" summary="Test Push">
       <option name="closed" value="true" />
@@ -89,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772548042180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fully finished the model. There is no more empty rows.">
+      <option name="closed" value="true" />
+      <created>1772637498443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772637498443</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Push" />
+    <MESSAGE value="Fully finished the model. There is no more empty rows." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fully finished the model. There is no more empty rows." />
   </component>
 </project>
